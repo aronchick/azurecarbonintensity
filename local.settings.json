@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=azurecarbonintensity2;AccountKey=sS1+S1tB38KHW9W46iFn3LxR1kPIgOeNZbxxbwMp0PsfceIEn2/Xa/lrtsjGYOoj5lnoeKnVYOq2U5WJgEvjlg==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "aec84217-1073-485e-b313-164e9394b080",
+    "azurecarbonintensity_STORAGE": "DefaultEndpointsProtocol=https;AccountName=azurecarbonintensity;AccountKey=M1jMPRwzKQispG7k80ZpdzeM57bLv0CyRskRMTs7OHQQRPSv+r20ztpcqOo1zolsUDCOmjcyKiETwweoWXeJ8g=="
+  },
+  "ConnectionStrings": {}
+}
