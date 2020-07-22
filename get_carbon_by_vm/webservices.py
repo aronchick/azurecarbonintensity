@@ -27,7 +27,7 @@ def get_co2_for_region_by_time(time_to_evaluate):
     # response_body = urlopen(request).read()
     # print response_body
 
-    
+
     # For historical: 
     #     
     # from urllib2 import Request, urlopen
@@ -39,3 +39,4 @@ def get_co2_for_region_by_time(time_to_evaluate):
 
     # response_body = urlopen(request).read()
     # print response_body
+    
