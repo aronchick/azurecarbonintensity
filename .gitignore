@@ -128,4 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-watttime_credentials.yaml
+local.settings.json
