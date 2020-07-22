@@ -8,6 +8,10 @@ black="*"
 
 [packages]
 azure-functions="*"
+ipython = "*"
+requests = "*"
+pyyaml = "*"
+black = "*"
 
 [requires]
 python_version = "3.8"
